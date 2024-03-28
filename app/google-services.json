@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064991431464",
+    "project_id": "hanseo-helper",
+    "storage_bucket": "hanseo-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064991431464:android:d5e078c725d0c69fffce1d",
+        "android_client_info": {
+          "package_name": "com.example.hanseohelper_muso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064991431464-cn4o3i5s83j8bgvrt74rrdum2fp5n8ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanseohelper_muso",
+            "certificate_hash": "f40d515fb14abd00c47a8aba6e99c002098c02ab"
+          }
+        },
+        {
+          "client_id": "1064991431464-or18uh8rvdg81id4r0fr53jjg8aqnoer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIe7mmcOnC_FEEHER1XmSpmV2bk0mzdMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064991431464-or18uh8rvdg81id4r0fr53jjg8aqnoer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

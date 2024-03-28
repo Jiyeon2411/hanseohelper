@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">hanseohelper_muso</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="report_array">
+        <item>신고사유를 선택해주세요</item>
+        <item>사기꾼 같아요</item>
+        <item>욕설 및 비방을 해요</item>
+        <item>매너가 안 좋아요</item>
+        <item>서비스를 제대로 수행하지 않았어요</item>
+        <item>기타</item>
+    </string-array>
+
+    <string name="title_activity_score">score</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
